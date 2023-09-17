@@ -25,6 +25,7 @@ import Chart3 from '../components/Chart3.vue'
         responsive: true
       }"
     />
+    <p><strong>With API Data</strong></p>
     <Chart3 />
   </main>
 </template>
