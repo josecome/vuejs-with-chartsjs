@@ -1,0 +1,10 @@
+{
+    "labels": ["TV", "LapTop", "Freezer", "AC", "Table", "Chair"],
+    "datasets": [
+      {
+        "label": "Products",
+        "data": [12, 19, 3, 5, 6, 3],
+        "backgroundColor": "rgba(103, 140, 249 , 1)"
+      }
+    ]
+}
