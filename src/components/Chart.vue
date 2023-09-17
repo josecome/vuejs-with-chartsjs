@@ -17,7 +17,7 @@ import {
 ChartJS.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 
 export default {
-  name: 'BarChart',
+  name: 'Chart',
   components: { Bar },
   data() {
     return {
