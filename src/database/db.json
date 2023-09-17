@@ -1,4 +1,5 @@
 {
+  "data": {
     "labels": ["TV", "LapTop", "Freezer", "AC", "Table", "Chair"],
     "datasets": [
       {
@@ -7,4 +8,5 @@
         "backgroundColor": "rgba(103, 140, 249 , 1)"
       }
     ]
+  }
 }

@@ -20,7 +20,6 @@ import Chart2 from '../components/Chart2.vue'
           }
         ]
       }"
-
       :chartOptions="{
         responsive: true
       }"
