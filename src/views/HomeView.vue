@@ -2,6 +2,7 @@
 import { ref, onBeforeMount, onMounted, watch } from 'vue'
 import Chart from '../components/Chart.vue'
 import Chart2 from '../components/Chart2.vue'
+import Chart3 from '../components/Chart3.vue'
 </script>
 
 <template>
@@ -24,5 +25,6 @@ import Chart2 from '../components/Chart2.vue'
         responsive: true
       }"
     />
+    <Chart3 />
   </main>
 </template>

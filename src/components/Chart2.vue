@@ -30,7 +30,7 @@ export default {
     }
   },
   mounted() {
-    console.log(this.chartData)
+    //console.log(this.chartData)
   }
 }
 </script>
