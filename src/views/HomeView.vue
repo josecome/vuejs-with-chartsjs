@@ -27,5 +27,6 @@ import Chart3 from '../components/Chart3.vue'
     />
     <p><strong>With API Data</strong></p>
     <Chart3 />
+
   </main>
 </template>
