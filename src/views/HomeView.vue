@@ -3,6 +3,7 @@ import { ref, onBeforeMount, onMounted, watch } from 'vue'
 import Chart from '../components/Chart.vue'
 import Chart2 from '../components/Chart2.vue'
 import Chart3 from '../components/Chart3.vue'
+import Chart4 from '../components/Chart4.vue'
 </script>
 
 <template>
@@ -27,6 +28,7 @@ import Chart3 from '../components/Chart3.vue'
     />
     <p><strong>With API Data</strong></p>
     <Chart3 />
-
+    <p><strong>Update when Data changes</strong></p>
+    <Chart4 />
   </main>
 </template>
